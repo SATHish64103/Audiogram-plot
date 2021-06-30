@@ -1,2 +1,2 @@
 # Audiogram
-This live script generates audiogram with user defined thresholds
+This live script can be used generate audiogram with user defined thresholds
